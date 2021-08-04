@@ -1,2 +1,1 @@
-# Tindog
-Website frist
+TinDog Starting Files
